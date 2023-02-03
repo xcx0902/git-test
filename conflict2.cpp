@@ -5,6 +5,6 @@ int main() {
     int n;
     cin >> n;
     int output = n;
-    cout << output << endl;
+    cout << output / 2 << endl;
     return 0;
 }
