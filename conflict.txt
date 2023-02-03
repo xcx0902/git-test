@@ -1,1 +1,1 @@
-Conflict.txt in conflict-test
+Conflict.txt in main (Edited)
