@@ -5,6 +5,6 @@ int main() {
     int a = 114514;
     int tmp = a / 2;
     tmp /= 2;
-    cout << tmp << endl;
+    cout << tmp / 2 << endl;
     return 0;
 }
